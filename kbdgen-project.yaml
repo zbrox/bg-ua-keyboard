@@ -5,7 +5,7 @@ internalName: BG-Phonetic-UA
 locales:
   en:
     name: "Bulgarian Phonetic with added Ukranian characters"
-    description: "A Bulgarian Phonetic with the 3 extra Ukranian characters added in to be easily used with the Alt/Opt key"
+    description: "A Bulgarian Phonetic layout with the 3 extra Ukranian characters added in to be easily used with the Alt/Opt key"
   nb:
     name: "Българска Фонетична с добавени Украински символи"
     description: "Българска фонетична клавиатурна подредба с добавени 3те липсващи символи от Украинската кирилица с ползата на Alt/Opt клавиша"
