@@ -5,6 +5,7 @@ The keyboard is an exact copy of the Bulgarian Phonetic layout with a couple of 
 * [alt/option + i] = і
 * [alt/option + y] = ї
 * [alt/option + e] = є
+* [alt/option + g] = ґ
 
 ## Installation
 
