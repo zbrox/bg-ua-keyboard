@@ -1,0 +1,5 @@
+version: "1.0"
+build: "1"
+packageId: com.zbrox.keyboards.bgua
+bundleName: "Bulgarian Phonetic with Ukranian"
+codeSignId: ""
