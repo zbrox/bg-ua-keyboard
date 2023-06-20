@@ -9,12 +9,12 @@ The keyboard is an exact copy of the Bulgarian Phonetic layout with a couple of 
 
 ## Installation
 
-You need [kbdgen](https://github.com/divvun/kbdgen) in order to generate the macOS layout installer. 
+You need [kbdgen](https://github.com/divvun/kbdgen) in order to generate the macOS layout installer.
 
 When you have installed `kbdgen` just run the following line (it will run *only on macOS*):
 
 ```sh
-kbdgen -t osx -o <installer_output_path> <path_to_kbdgen-project.yaml>
+kbdgen target -b <path_to_bg-ua.kbdgen> -o <output_path_for_layout> macos generate
 ```
 
-In the specified `<installer_output_path>` you'll see an unsigned pkg file, which is basically your installer for the macOS layout. Just run that and follow the installation steps.
+In the ouput path specified by you, you would find a `.bundle` file that you can copy to `~/Library/Keyboard Layouts`.
